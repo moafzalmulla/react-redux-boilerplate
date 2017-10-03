@@ -24,7 +24,7 @@ $ npm start
 ```
 
 ### Build
-This will create your bundled JS file to be included in your html file
+This will create your app.bundle.js file in the "build" folder to be included in your html file
 
 ```sh
 $ npm run build
