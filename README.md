@@ -16,14 +16,15 @@ $ npm install
 ```
 
 ### Serve
-To serve in the browser
+This will serve the application using webpack-dev-server
+Visit http://localhost:8080
 
 ```sh
 $ npm start
 ```
 
 ### Build
-Compile and build
+This will create your bundled JS file to be included in your html file
 
 ```sh
 $ npm run build
